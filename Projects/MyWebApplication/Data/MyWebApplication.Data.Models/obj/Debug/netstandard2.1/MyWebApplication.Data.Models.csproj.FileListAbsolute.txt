@@ -1,0 +1,12 @@
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\bin\Debug\netstandard2.1\MyWebApplication.Data.Models.deps.json
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\bin\Debug\netstandard2.1\MyWebApplication.Data.Models.dll
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\bin\Debug\netstandard2.1\MyWebApplication.Data.Models.pdb
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\bin\Debug\netstandard2.1\MyWebApplication.Data.Common.dll
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\bin\Debug\netstandard2.1\MyWebApplication.Data.Common.pdb
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\obj\Debug\netstandard2.1\MyWebApplication.Data.Models.csprojAssemblyReference.cache
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\obj\Debug\netstandard2.1\MyWebApplication.Data.Models.AssemblyInfoInputs.cache
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\obj\Debug\netstandard2.1\MyWebApplication.Data.Models.AssemblyInfo.cs
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\obj\Debug\netstandard2.1\MyWebApplication.Data.Models.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\obj\Debug\netstandard2.1\MyWebApplication.Data.Models.csproj.CopyComplete
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\obj\Debug\netstandard2.1\MyWebApplication.Data.Models.dll
+E:\Curses\C#\Projects\MyWebApplication\Data\MyWebApplication.Data.Models\obj\Debug\netstandard2.1\MyWebApplication.Data.Models.pdb

@@ -1,0 +1,9 @@
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\bin\Debug\netstandard2.1\MyWebApplication.Services.deps.json
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\bin\Debug\netstandard2.1\MyWebApplication.Services.dll
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\bin\Debug\netstandard2.1\MyWebApplication.Services.pdb
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.csprojAssemblyReference.cache
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.AssemblyInfoInputs.cache
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.AssemblyInfo.cs
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.dll
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.pdb

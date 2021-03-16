@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vdmTDgJeCFv8So5zZHgSqSB1jJv/X3RuPvjEnEKl96WpO3IeR7ii43vNuV58u60jp3hBUJ1Navcu3vObqnRf2g==",
+  "success": true,
+  "projectFilePath": "E:\\Curses\\C#\\Projects\\MyWebApplication\\Web\\MyWebApplication.Web.Infrastructure\\MyWebApplication.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\R\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

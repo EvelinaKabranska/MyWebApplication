@@ -1,0 +1,9 @@
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\bin\Debug\netstandard2.1\MyWebApplication.Services.Mapping.deps.json
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\bin\Debug\netstandard2.1\MyWebApplication.Services.Mapping.dll
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\bin\Debug\netstandard2.1\MyWebApplication.Services.Mapping.pdb
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\obj\Debug\netstandard2.1\MyWebApplication.Services.Mapping.csprojAssemblyReference.cache
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\obj\Debug\netstandard2.1\MyWebApplication.Services.Mapping.AssemblyInfoInputs.cache
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\obj\Debug\netstandard2.1\MyWebApplication.Services.Mapping.AssemblyInfo.cs
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\obj\Debug\netstandard2.1\MyWebApplication.Services.Mapping.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\obj\Debug\netstandard2.1\MyWebApplication.Services.Mapping.dll
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services.Mapping\obj\Debug\netstandard2.1\MyWebApplication.Services.Mapping.pdb
