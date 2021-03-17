@@ -9,7 +9,7 @@
 
     <div class="form-group">
         <label asp-for="Name"></label>
-        <input asp-for="Name" class="form-control"/>
+        <input asp-for="Name" class="form-control" />
         <span asp-validation-for="Name" class="text-danger"></span>
     </div>
 
@@ -30,11 +30,18 @@
         <select asp-for="CategoryId" class="form-control" asp-items="categoryItems"></select>
     </div>
 
-    <div id="ActorsContainer">
-        <label asp-for="Actors"></label>
-        <a class="btn btn-success" onclick="AddMoreIngredients()">+</a>
+    <div class="form-group">
+        <label asp-for="Images"></label>
+        <input asp-for="Images" class="form-control" />
+        <span asp-validation-for="Images" class="text-danger"></span>
     </div>
 
+    <div id="ActorsContainer">
+        <label asp-for="Actors"></label>
+        <hr />
+        <a class="btn btn-success" onclick="AddMoreIngredients()">+</a>
+    </div>
+    <hr />
     <input type="submit" class="btn btn-primary" />
 </form>
 
@@ -43,6 +50,7 @@
     var actorIndex = 0;
     function AddMoreIngredients() {
         $("#ActorsContainer").append("<div class='form-control'> Name: <input type='text' name='Actors[" + actorIndex + "].ActorName' /> </div>");
+        "<hr/>"
         actorIndex++;
     }
 </script>

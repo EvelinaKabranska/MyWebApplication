@@ -21,6 +21,7 @@
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Hosting;
+    using MyWebApplication.Services.Data.Models;
 
     public class Startup
     {
@@ -67,6 +68,7 @@
             services.AddTransient<ISettingsService, SettingsService>();
             services.AddTransient<IGetCountsService, GetCountsService>();
             services.AddTransient<ICategoriesService, CategoriesService>();
+            services.AddTransient<IVotesService, VotesService>();
             services.AddTransient<IMoviesService, MoviesService>();
         }
 
