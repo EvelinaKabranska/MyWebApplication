@@ -22,6 +22,7 @@
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Hosting;
     using MyWebApplication.Services.Data.Models;
+    using MyWebApplication.Services;
 
     public class Startup
     {
@@ -64,12 +65,14 @@
             services.AddScoped<IDbQueryRunner, DbQueryRunner>();
 
             // Application services
-            services.AddTransient<IEmailSender, NullMessageSender>();
+            services.AddTransient<IEmailSender>(x=> new SendGridEmailSender(this.configuration["SendGrid:ApiKey"]));
             services.AddTransient<ISettingsService, SettingsService>();
             services.AddTransient<IGetCountsService, GetCountsService>();
             services.AddTransient<ICategoriesService, CategoriesService>();
             services.AddTransient<IVotesService, VotesService>();
             services.AddTransient<IMoviesService, MoviesService>();
+            services.AddTransient<IActorsService, ActorsService>();
+            services.AddTransient<IMovieBgScraperService, MovieBgScraperService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

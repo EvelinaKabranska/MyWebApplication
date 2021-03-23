@@ -7,3 +7,8 @@ E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\De
 E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.csproj.CoreCompileInputs.cache
 E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.dll
 E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.pdb
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\bin\Debug\netstandard2.1\MyWebApplication.Data.Common.dll
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\bin\Debug\netstandard2.1\MyWebApplication.Data.Models.dll
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\bin\Debug\netstandard2.1\MyWebApplication.Data.Common.pdb
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\bin\Debug\netstandard2.1\MyWebApplication.Data.Models.pdb
+E:\Curses\C#\Projects\MyWebApplication\Services\MyWebApplication.Services\obj\Debug\netstandard2.1\MyWebApplication.Services.csproj.CopyComplete

@@ -19,6 +19,8 @@
 
         public TimeSpan Duration { get; set; }
 
+        public string OriginalUrl { get; set; }
+
         public ApplicationUser AddedByUserId { get; set; }
 
         public int CategoryId { get; set; }

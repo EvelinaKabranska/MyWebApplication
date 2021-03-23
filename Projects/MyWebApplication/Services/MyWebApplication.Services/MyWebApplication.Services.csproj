@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
@@ -13,9 +13,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AngleSharp" Version="0.14.0" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.312" PrivateAssets="all">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\MyWebApplication.Data.Common\MyWebApplication.Data.Common.csproj" />
+    <ProjectReference Include="..\..\Data\MyWebApplication.Data.Models\MyWebApplication.Data.Models.csproj" />
   </ItemGroup>
 
 </Project>

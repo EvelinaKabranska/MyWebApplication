@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KsAUnaZKBi8H6W5YZPkkzDxD9t9Ycb1aHGvLI42O/LvzhFBHkOP2HZr0XPQU5g4ATRieQTqxdhzfDl8R5NsYmQ==",
+  "dgSpecHash": "80y5k/Klr531/UUSkX7NjJ0O8/XpYTJyhG4o0iYnzRr1WzTmmr0nRp05w2xQ4Mh4GBJRw+kfQP609vho4j7OSA==",
   "success": true,
   "projectFilePath": "E:\\Curses\\C#\\Projects\\MyWebApplication\\Web\\MyWebApplication.Web\\MyWebApplication.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\R\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
